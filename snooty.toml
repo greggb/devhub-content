@@ -9,3 +9,7 @@ pgp-version = "{+version+}"
 [page_groups]
 "Java Tutorials" = ["/quickstart/java-setup-crud-operations", "/quickstart/java-mapping-pojos", "/quickstart/java-aggregation-pipeline", "/quickstart/java-change-streams"]
 "BSON Tutorials" = ["/quickstart/bson-data-types-decimal128", "/quickstart/bson-data-types-objectid"]
+
+[featured_articles]
+"home" = ['/quickstart/nodejs-change-streams-triggers', '/quickstart/nodejs-change-streams-triggers', '/quickstart/nodejs-change-streams-triggers', '/quickstart/nodejs-change-streams-triggers']
+"learn" = ['/quickstart/nodejs-change-streams-triggers','/quickstart/nodejs-change-streams-triggers', '/quickstart/nodejs-change-streams-triggers']
